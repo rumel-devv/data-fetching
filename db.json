@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "brand": "Logitech",
+      "price": 10200,
+      "category": "electronics",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "A smooth and responsive wireless mouse with ergonomic design, perfect for daily use and long working hours.",
+      "image": "https://example.com/mouse.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "brand": "Redragon",
+      "price": 3500,
+      "category": "electronics",
+      "stock": 15,
+      "rating": 4.7,
+      "description": "High-performance mechanical keyboard with RGB lighting, durable switches, and a comfortable typing experience.",
+      "image": "https://example.com/keyboard.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "brand": "Nike",
+      "price": 5500,
+      "category": "fashion",
+      "stock": 10,
+      "rating": 4.6,
+      "description": "Lightweight and breathable running shoes designed for comfort, speed, and everyday training.",
+      "image": "https://example.com/shoes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "brand": "Xiaomi",
+      "price": 4200,
+      "category": "electronics",
+      "stock": 18,
+      "rating": 4.3,
+      "description": "Feature-packed smartwatch with fitness tracking, heart rate monitoring, and long battery life.",
+      "image": "https://example.com/watch.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "brand": "American Tourister",
+      "price": 2000,
+      "category": "accessories",
+      "stock": 30,
+      "rating": 4.4,
+      "description": "Spacious and durable backpack ideal for travel, school, and daily commuting.",
+      "image": "https://example.com/backpack.jpg"
+    }
+  ]
+}
