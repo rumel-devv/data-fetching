@@ -2,7 +2,7 @@ import ProductCard from "@/components/ProductCard";
 import React from "react";
 
 const getProducts = async () => {
-  const res = await fetch("http://localhost:4040/products");
+  const res = await fetch("http://localhost:4040/products", {next: {revalidate: 20}});
   return res.json();
 };
 
